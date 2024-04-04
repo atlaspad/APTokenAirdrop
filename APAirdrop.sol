@@ -16,7 +16,7 @@ contract AirDrop is ERC20("AirDrop", "AD") {
     }
 
     function claim(bytes32[] calldata _proof) external {
-        require(!claimed[msg.sender], "Already claimed air drop");
+        require(!claimed[msg.sender], "Already claimed airdrop");
         claimed[msg.sender] = true;
         bytes32 _leaf = keccak256(abi.encodePacked(msg.sender));
         require(
