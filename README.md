@@ -2,6 +2,8 @@
                                                                                                                
                                  
 <img width="544" alt="airdrop mimari" src="https://github.com/atlaspad/APTokenAirdrop/assets/98388377/4462ab0c-80b8-4ccd-a47b-8a8f8567c41e">
+![image](https://github.com/atlaspad/APTokenAirdrop/assets/90208101/343f7a84-21d4-4ec5-8853-985f58fed156)
+
 
 · Kontrat, OpenZeppelin ERC20 standartlarına uygun bir token olan "AirDrop" adında bir token oluşturur.
 
